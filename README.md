@@ -12,5 +12,4 @@ exif_image_data_overlay.jsx
 This script is not so awesome.  It simply stamps a data to the lower right hand corner like those old cheesy film point and shoots back in the day.
 exif_date_it.jsx
 
-
-<img src="https://flic.kr/p/qDZLhp" width="941" height="716"></img>
+![Alt text](/examples/20140124-_MG_8235.jpg?raw=true "EXIF Wrap Example")
