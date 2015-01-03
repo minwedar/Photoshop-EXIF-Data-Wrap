@@ -6,10 +6,12 @@ This Javascript is ran within Photoshop and extract the EXIF data found in the i
 I've used this in past Photoshop versions but this one I just tested in the lastest Photoshop CC and it seems to still be working just fine.  I've tested it with iPhones and a few Canon cameras and they all seem to work just fine.  To take a look at a few examples, follow this link to some images I posted to Flickr.
 https://flic.kr/s/aHsk6Km5UH
 
-This is the real one you want.  This is the one that wraps the image with the EXIF data around in a nice white boarder.
-exif_image_data_overlay.jsx
+This is the real one you want.  This is the one that wraps the image with the EXIF data around in a nice white boarder. [exif_image_data_overlay.jsx]
 
-This script is not so awesome.  It simply stamps a data to the lower right hand corner like those old cheesy film point and shoots back in the day.
-exif_date_it.jsx
+This script is not so awesome.  It simply stamps a data to the lower right hand corner like those old cheesy film point and shoots back in the day.  [exif_date_it.jsx]
+
+![Alt text](/examples/20140808-IMG_1524.jpg?raw=true "EXIF Wrap Example")
+
+In this next example I wanted to point out for DSLR it shows what lens your using so it's not just shutter and  aperture settings.
 
 ![Alt text](/examples/20140124-_MG_8235.jpg?raw=true "EXIF Wrap Example")
