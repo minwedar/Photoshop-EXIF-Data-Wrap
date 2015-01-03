@@ -13,4 +13,4 @@ This script is not so awesome.  It simply stamps a data to the lower right hand 
 exif_date_it.jsx
 
 
-<img src="https://www.flickr.com/photos/toddaburke/16182543135/in/set-72157649673069617/player/" width="941" height="716"></img>
+<img src="https://flic.kr/p/qDZLhp" width="941" height="716"></img>
